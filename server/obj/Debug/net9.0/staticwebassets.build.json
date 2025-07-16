@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "AOfZfBOiOO4RS/3EhW/IrTwATAnpzUYRCzs540nj59A=",
+  "Source": "Examhub",
+  "BasePath": "_content/Examhub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Examhub\\wwwroot",
+      "Source": "Examhub",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0iqysqo5yn",
+      "Integrity": "WEG2E4GgrRSMXNaU4XhwhL3U4ONFckBawm+t5wRI4+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zzxq6iqxb5",
+      "Integrity": "n1zp7gBTFIsx3QjsYbc9bPmT5a15XD5YXPAymQmiLs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ixxban7tvy",
+      "Integrity": "hjY7medWglxmTWC9EzpIrmTj1h+Y24rCqjRlY7e7dvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\03e8b69a-065e-4261-a116-b0850cb8be77.png",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancies/03e8b69a-065e-4261-a116-b0850cb8be77#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "subomxt6gj",
+      "Integrity": "BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancies\\03e8b69a-065e-4261-a116-b0850cb8be77.png"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\c17d0927-945f-4d79-a01d-5b9f5d9854a7.png",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancies/c17d0927-945f-4d79-a01d-5b9f5d9854a7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "subomxt6gj",
+      "Integrity": "BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancies\\c17d0927-945f-4d79-a01d-5b9f5d9854a7.png"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\db455705-937f-48ae-8499-bde757f481f2.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancies/db455705-937f-48ae-8499-bde757f481f2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancies\\db455705-937f-48ae-8499-bde757f481f2.jpg"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\e0180e9e-4eae-4b2f-a306-6991dd6901ff.png",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancies/e0180e9e-4eae-4b2f-a306-6991dd6901ff#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "subomxt6gj",
+      "Integrity": "BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancies\\e0180e9e-4eae-4b2f-a306-6991dd6901ff.png"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancies/eab3d7e1-1305-4f92-a3d7-ac78cf804344#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancies\\eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/21e67fa2-31ba-4594-83a5-48b0e53af9cf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\344456d9-aae4-4233-9691-093cdb45a990.png",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/344456d9-aae4-4233-9691-093cdb45a990#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "subomxt6gj",
+      "Integrity": "BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\344456d9-aae4-4233-9691-093cdb45a990.png"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\43b3699e-181e-41b0-a485-a4551d6318c7.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/43b3699e-181e-41b0-a485-a4551d6318c7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\43b3699e-181e-41b0-a485-a4551d6318c7.jpg"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\46d2c957-b920-4653-a93a-9624361178e7.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/46d2c957-b920-4653-a93a-9624361178e7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\46d2c957-b920-4653-a93a-9624361178e7.jpg"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\851ee93b-68ab-4094-b197-bb841e53daa6.png",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/851ee93b-68ab-4094-b197-bb841e53daa6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "subomxt6gj",
+      "Integrity": "BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\851ee93b-68ab-4094-b197-bb841e53daa6.png"
+    },
+    {
+      "Identity": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\e6e67fe5-6806-452f-932d-363605153b90.jpg",
+      "SourceId": "Examhub",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\",
+      "BasePath": "_content/Examhub",
+      "RelativePath": "uploads/vacancyupdates/e6e67fe5-6806-452f-932d-363605153b90#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w8twrrj891",
+      "Integrity": "ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\vacancyupdates\\e6e67fe5-6806-452f-932d-363605153b90.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.0iqysqo5yn.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11813537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WEG2E4GgrRSMXNaU4XhwhL3U4ONFckBawm+t5wRI4+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 04:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0iqysqo5yn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WEG2E4GgrRSMXNaU4XhwhL3U4ONFckBawm+t5wRI4+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\966e6ce7-7f26-499f-b32d-057cd52ffb1e_SAD Chapter 1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11813537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WEG2E4GgrRSMXNaU4XhwhL3U4ONFckBawm+t5wRI4+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 04:21:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WEG2E4GgrRSMXNaU4XhwhL3U4ONFckBawm+t5wRI4+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3196843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1zp7gBTFIsx3QjsYbc9bPmT5a15XD5YXPAymQmiLs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1zp7gBTFIsx3QjsYbc9bPmT5a15XD5YXPAymQmiLs8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.zzxq6iqxb5.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3196843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n1zp7gBTFIsx3QjsYbc9bPmT5a15XD5YXPAymQmiLs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 06:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zzxq6iqxb5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a536e6ee-e527-4339-99e4-a124b0a8528c_CDC_2078.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n1zp7gBTFIsx3QjsYbc9bPmT5a15XD5YXPAymQmiLs8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.ixxban7tvy.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3304399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjY7medWglxmTWC9EzpIrmTj1h+Y24rCqjRlY7e7dvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 03:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ixxban7tvy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjY7medWglxmTWC9EzpIrmTj1h+Y24rCqjRlY7e7dvo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\e7dab692-9232-4526-964a-2cad5a5706ac_NET_2076.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3304399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjY7medWglxmTWC9EzpIrmTj1h+Y24rCqjRlY7e7dvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 03:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjY7medWglxmTWC9EzpIrmTj1h+Y24rCqjRlY7e7dvo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/03e8b69a-065e-4261-a116-b0850cb8be77.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\03e8b69a-065e-4261-a116-b0850cb8be77.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 12:30:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/03e8b69a-065e-4261-a116-b0850cb8be77.subomxt6gj.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\03e8b69a-065e-4261-a116-b0850cb8be77.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 12:30:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "subomxt6gj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancies/03e8b69a-065e-4261-a116-b0850cb8be77.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/c17d0927-945f-4d79-a01d-5b9f5d9854a7.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\c17d0927-945f-4d79-a01d-5b9f5d9854a7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 02:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/c17d0927-945f-4d79-a01d-5b9f5d9854a7.subomxt6gj.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\c17d0927-945f-4d79-a01d-5b9f5d9854a7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 02:42:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "subomxt6gj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancies/c17d0927-945f-4d79-a01d-5b9f5d9854a7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/db455705-937f-48ae-8499-bde757f481f2.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\db455705-937f-48ae-8499-bde757f481f2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 01:33:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/db455705-937f-48ae-8499-bde757f481f2.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\db455705-937f-48ae-8499-bde757f481f2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 01:33:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancies/db455705-937f-48ae-8499-bde757f481f2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/e0180e9e-4eae-4b2f-a306-6991dd6901ff.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\e0180e9e-4eae-4b2f-a306-6991dd6901ff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:56:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/e0180e9e-4eae-4b2f-a306-6991dd6901ff.subomxt6gj.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\e0180e9e-4eae-4b2f-a306-6991dd6901ff.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 13:56:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "subomxt6gj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancies/e0180e9e-4eae-4b2f-a306-6991dd6901ff.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 05:30:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancies/eab3d7e1-1305-4f92-a3d7-ac78cf804344.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancies\\eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 05:30:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancies/eab3d7e1-1305-4f92-a3d7-ac78cf804344.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/21e67fa2-31ba-4594-83a5-48b0e53af9cf.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:46:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/21e67fa2-31ba-4594-83a5-48b0e53af9cf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/344456d9-aae4-4233-9691-093cdb45a990.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\344456d9-aae4-4233-9691-093cdb45a990.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:30:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/344456d9-aae4-4233-9691-093cdb45a990.subomxt6gj.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\344456d9-aae4-4233-9691-093cdb45a990.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 17:30:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "subomxt6gj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/344456d9-aae4-4233-9691-093cdb45a990.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/43b3699e-181e-41b0-a485-a4551d6318c7.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\43b3699e-181e-41b0-a485-a4551d6318c7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 05:37:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/43b3699e-181e-41b0-a485-a4551d6318c7.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\43b3699e-181e-41b0-a485-a4551d6318c7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 05:37:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/43b3699e-181e-41b0-a485-a4551d6318c7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/46d2c957-b920-4653-a93a-9624361178e7.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\46d2c957-b920-4653-a93a-9624361178e7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/46d2c957-b920-4653-a93a-9624361178e7.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\46d2c957-b920-4653-a93a-9624361178e7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 16:46:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/46d2c957-b920-4653-a93a-9624361178e7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/851ee93b-68ab-4094-b197-bb841e53daa6.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\851ee93b-68ab-4094-b197-bb841e53daa6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 15:49:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/851ee93b-68ab-4094-b197-bb841e53daa6.subomxt6gj.png",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\851ee93b-68ab-4094-b197-bb841e53daa6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 15:49:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "subomxt6gj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/851ee93b-68ab-4094-b197-bb841e53daa6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJwKDjNanS16jJbpwzDRLowbVfQqfYCVSQ9JJdmbxFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/e6e67fe5-6806-452f-932d-363605153b90.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\e6e67fe5-6806-452f-932d-363605153b90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 15:27:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/vacancyupdates/e6e67fe5-6806-452f-932d-363605153b90.w8twrrj891.jpg",
+      "AssetFile": "F:\\FYPBACKEND\\Examhub\\Examhub\\wwwroot\\uploads\\vacancyupdates\\e6e67fe5-6806-452f-932d-363605153b90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 15:27:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w8twrrj891"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/vacancyupdates/e6e67fe5-6806-452f-932d-363605153b90.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ENMHwH/0DPZU+kW4fbE4nZp+lVKMt9kI0fldFy2/Y6I="
+        }
+      ]
+    }
+  ]
+}
